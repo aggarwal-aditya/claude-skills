@@ -1,2 +1,2 @@
 # claude-skills
-Claude Skills for MBA Jour
+Claude Skills for MBA Journey
